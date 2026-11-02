@@ -1,0 +1,11 @@
+:HL["/usman_abro.github.io/_next/static/media/26d4368bf94c0ec4-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/usman_abro.github.io/_next/static/media/93bd5b8e056bd94c-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/usman_abro.github.io/_next/static/media/98e207f02528a563-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/usman_abro.github.io/_next/static/media/d3ebbfd689654d3a-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/usman_abro.github.io/_next/static/css/8dcb5d519ae4c86d.css","style"]
+:HL["/usman_abro.github.io/_next/static/css/963ca7a792e6d491.css","style"]
+4:[["children",{"s":"__PAGE__","h":160}]]
+3:[["children",{"s":{"n":"id","t":"d","k":"avgo","s":[]},"h":96,"c":"$Q4"}]]
+2:[["children",{"s":"portfolio","h":96,"c":"$Q3"}]]
+1:[["children",{"s":"workspaces","h":96,"c":"$Q2"}]]
+0:{"b":"D65qoXcAB3xkndnMgS3ot","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
